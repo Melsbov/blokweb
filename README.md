@@ -38,20 +38,20 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   
   #### Screenshot(s) van de eerste pagina (small screen): 
   hier de naam van de pagina  
-  <img src="readme-images/Pag1Afb1.jpeg" width="375px" alt="omschrijving van de pagina">
-  <img src="readme-images/Pag1Afb2.jpeg" width="375px" alt="omschrijving van de pagina">
-  <img src="readme-images/Pag1Afb3.jpeg" width="375px" alt="omschrijving van de pagina">
-  <img src="readme-images/Pag1Afb4.jpeg" width="375px" alt="omschrijving van de pagina">
-  <img src="readme-images/Pag1Afb5.jpeg" width="375px" alt="omschrijving van de pagina">
+  <img src="Pag1Afb1.jpeg" width="375px" alt="omschrijving van de pagina">
+  <img src="Pag1Afb2.jpeg" width="375px" alt="omschrijving van de pagina">
+  <img src="Pag1Afb3.jpeg" width="375px" alt="omschrijving van de pagina">
+  <img src="Pag1Afb4.jpeg" width="375px" alt="omschrijving van de pagina">
+  <img src="Pag1Afb5.jpeg" width="375px" alt="omschrijving van de pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  
-  <img src="readme-images/Pag2Afb1.jpeg" width="375px" alt="omschrijving van de pagina">
-  <img src="readme-images/Pag2Afb2.jpeg" width="375px" alt="omschrijving van de pagina">
-  <img src="readme-images/Pag2Afb3.jpeg" width="375px" alt="omschrijving van de pagina">
-  <img src="readme-images/Pag2Afb4.jpeg" width="375px" alt="omschrijving van de pagina">
-  <img src="readme-images/Pag2Afb5.jpeg" width="375px" alt="omschrijving van de pagina">
-  <img src="readme-images/Pag2Afb6.jpeg" width="375px" alt="omschrijving van de pagina">
+  <img src="Pag2Afb1.jpeg" width="375px" alt="omschrijving van de pagina">
+  <img src="Pag2Afb2.jpeg" width="375px" alt="omschrijving van de pagina">
+  <img src="Pag2Afb3.jpeg" width="375px" alt="omschrijving van de pagina">
+  <img src="Pag2Afb4.jpeg" width="375px" alt="omschrijving van de pagina">
+  <img src="Pag2Afb5.jpeg" width="375px" alt="omschrijving van de pagina">
+  <img src="Pag2Afb6.jpeg" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
