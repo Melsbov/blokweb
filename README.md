@@ -51,7 +51,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <img src="Pag2Afb3.jpeg" width="375px" alt="omschrijving van de pagina">
   <img src="Pag2Afb4.jpeg" width="375px" alt="omschrijving van de pagina">
   <img src="Pag2Afb5.jpeg" width="375px" alt="omschrijving van de pagina">
-  <img src="Pag2Afb6.jpeg" width="375px" alt="omschrijving van de pagina">
+  <img src="Pag2Afb6.jpg" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
